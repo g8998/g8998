@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gerard 👋
 
-<!--
-**g8998/g8998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cybersecurity & Systems Administrator specialized in Networking and Linux environments.
 
-Here are some ideas to get you started:
+🎯 Currently focused on:
+- Cloud Security (AWS fundamentals)
+- Blue Team & Defensive Security
+- Vulnerability Management
+- Hardening Linux systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technical Skills:
+- Networking: TCP/IP, Routing & Switching, NAT, VLAN basics
+- Systems: Linux, Windows
+- Security: OpenVPN, access control, firewall basics
+- Tools: Git, Apache2, ffmpeg
+- Programming: Python (automation & GUI apps)
+
+📌 Featured Projects:
+- 🔐 PiVPN Web – Web management interface for OpenVPN users
+- 🎥 AceStream Recorder – Python GUI app with automated processing
+
+📫 Contact:
+- [Linkedin](https://www.linkedin.com/in/gerard-de-sivatte-531b523a5)
